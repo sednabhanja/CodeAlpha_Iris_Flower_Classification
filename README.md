@@ -35,9 +35,10 @@ To build and evaluate classification models that accurately predict the species 
 - Accuracy Score
 - Confusion Matrix
 - Classification Report
-
 ## Best Model
-Random Forest (or whichever model achieved the highest accuracy in your notebook)
+Logistic Regression
+Accuracy:  96.66%
+
 
 ## Files
 - CodeAlpha_Iris_Flower_Classification.ipynb
